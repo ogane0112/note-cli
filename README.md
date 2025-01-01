@@ -1,4 +1,4 @@
-# 非公式NoteCLI
+# 非公式NoteCLI(未完成)
 非公式APIを利用してNoteCLIを作ってみました！
 
 ## 使い方
